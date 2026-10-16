@@ -1,0 +1,639 @@
+{
+ "run": "2026-10-16_10-49",
+ "targets": [
+  {
+   "id": "neoforge-26.3",
+   "loader": "neoforge",
+   "ver": "26.3",
+   "server": "neoforge 26.3",
+   "ok": true,
+   "steps": [
+    {
+     "step": "messenger on",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "open chat",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "text",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "sticker",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "reaction",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "reply",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "edit",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "poll",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "vote",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "search",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "search closed",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "command",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "attach menu",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "picture",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "voice: recording",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "voice: sent",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "voice: playing",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "voice: stopped",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "new poll window",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot: private message",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "private chat open",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "private answer",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot read it",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot is typing",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "back to the game's chat",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot reacts",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot answers you",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot mentions you",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "muted",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "muted: nothing goes out",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "unmuted",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "delete",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "sticker panel",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "settings, tab 1",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "settings, tab 2",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "settings, tab 3",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "back to the game",
+     "ok": true,
+     "note": ""
+    }
+   ],
+   "crash": [],
+   "shots": [
+    {
+     "file": "01-open-chat.jpg",
+     "step": "open chat"
+    },
+    {
+     "file": "02-text.jpg",
+     "step": "text"
+    },
+    {
+     "file": "03-sticker.jpg",
+     "step": "sticker"
+    },
+    {
+     "file": "04-reaction.jpg",
+     "step": "reaction"
+    },
+    {
+     "file": "05-reply.jpg",
+     "step": "reply"
+    },
+    {
+     "file": "06-edit.jpg",
+     "step": "edit"
+    },
+    {
+     "file": "07-vote.jpg",
+     "step": "vote"
+    },
+    {
+     "file": "08-search.jpg",
+     "step": "search"
+    },
+    {
+     "file": "09-command.jpg",
+     "step": "command"
+    },
+    {
+     "file": "10-attach-menu.jpg",
+     "step": "attach menu"
+    },
+    {
+     "file": "11-picture.jpg",
+     "step": "picture"
+    },
+    {
+     "file": "12-voice-recording.jpg",
+     "step": "voice: recording"
+    },
+    {
+     "file": "13-voice-sent.jpg",
+     "step": "voice: sent"
+    },
+    {
+     "file": "14-voice-playing.jpg",
+     "step": "voice: playing"
+    },
+    {
+     "file": "15-new-poll-window.jpg",
+     "step": "new poll window"
+    },
+    {
+     "file": "16-bot-private-message.jpg",
+     "step": "bot: private message"
+    },
+    {
+     "file": "17-private-chat-open.jpg",
+     "step": "private chat open"
+    },
+    {
+     "file": "18-bot-read-it.jpg",
+     "step": "bot read it"
+    },
+    {
+     "file": "19-bot-is-typing.jpg",
+     "step": "bot is typing"
+    },
+    {
+     "file": "20-bot-reacts.jpg",
+     "step": "bot reacts"
+    },
+    {
+     "file": "21-bot-answers-you.jpg",
+     "step": "bot answers you"
+    },
+    {
+     "file": "22-bot-mentions-you.jpg",
+     "step": "bot mentions you"
+    },
+    {
+     "file": "23-muted.jpg",
+     "step": "muted"
+    },
+    {
+     "file": "24-muted-nothing-goes-out.jpg",
+     "step": "muted: nothing goes out"
+    },
+    {
+     "file": "25-delete.jpg",
+     "step": "delete"
+    },
+    {
+     "file": "26-sticker-panel.jpg",
+     "step": "sticker panel"
+    },
+    {
+     "file": "27-settings-tab-1.jpg",
+     "step": "settings, tab 1"
+    },
+    {
+     "file": "28-settings-tab-2.jpg",
+     "step": "settings, tab 2"
+    },
+    {
+     "file": "29-settings-tab-3.jpg",
+     "step": "settings, tab 3"
+    },
+    {
+     "file": "30-back-to-the-game.jpg",
+     "step": "back to the game"
+    }
+   ]
+  },
+  {
+   "id": "paper-26.3",
+   "loader": "paper",
+   "ver": "26.3",
+   "server": "paper 26.3",
+   "ok": true,
+   "steps": [
+    {
+     "step": "messenger on",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "open chat",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "text",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "sticker",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "reaction",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "reply",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "edit",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "poll",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "vote",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "search",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "search closed",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "command",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "attach menu",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "picture",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "voice: recording",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "voice: sent",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "voice: playing",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "voice: stopped",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "new poll window",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot: private message",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "private chat open",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "private answer",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot read it",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot is typing",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "back to the game's chat",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot reacts",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot answers you",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "bot mentions you",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "muted",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "muted: nothing goes out",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "unmuted",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "delete",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "sticker panel",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "settings, tab 1",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "settings, tab 2",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "settings, tab 3",
+     "ok": true,
+     "note": ""
+    },
+    {
+     "step": "back to the game",
+     "ok": true,
+     "note": ""
+    }
+   ],
+   "crash": [],
+   "shots": [
+    {
+     "file": "01-open-chat.jpg",
+     "step": "open chat"
+    },
+    {
+     "file": "02-text.jpg",
+     "step": "text"
+    },
+    {
+     "file": "03-sticker.jpg",
+     "step": "sticker"
+    },
+    {
+     "file": "04-reaction.jpg",
+     "step": "reaction"
+    },
+    {
+     "file": "05-reply.jpg",
+     "step": "reply"
+    },
+    {
+     "file": "06-edit.jpg",
+     "step": "edit"
+    },
+    {
+     "file": "07-vote.jpg",
+     "step": "vote"
+    },
+    {
+     "file": "08-search.jpg",
+     "step": "search"
+    },
+    {
+     "file": "09-command.jpg",
+     "step": "command"
+    },
+    {
+     "file": "10-attach-menu.jpg",
+     "step": "attach menu"
+    },
+    {
+     "file": "11-picture.jpg",
+     "step": "picture"
+    },
+    {
+     "file": "12-voice-recording.jpg",
+     "step": "voice: recording"
+    },
+    {
+     "file": "13-voice-sent.jpg",
+     "step": "voice: sent"
+    },
+    {
+     "file": "14-voice-playing.jpg",
+     "step": "voice: playing"
+    },
+    {
+     "file": "15-new-poll-window.jpg",
+     "step": "new poll window"
+    },
+    {
+     "file": "16-bot-private-message.jpg",
+     "step": "bot: private message"
+    },
+    {
+     "file": "17-private-chat-open.jpg",
+     "step": "private chat open"
+    },
+    {
+     "file": "18-bot-read-it.jpg",
+     "step": "bot read it"
+    },
+    {
+     "file": "19-bot-is-typing.jpg",
+     "step": "bot is typing"
+    },
+    {
+     "file": "20-bot-reacts.jpg",
+     "step": "bot reacts"
+    },
+    {
+     "file": "21-bot-answers-you.jpg",
+     "step": "bot answers you"
+    },
+    {
+     "file": "22-bot-mentions-you.jpg",
+     "step": "bot mentions you"
+    },
+    {
+     "file": "23-muted.jpg",
+     "step": "muted"
+    },
+    {
+     "file": "24-muted-nothing-goes-out.jpg",
+     "step": "muted: nothing goes out"
+    },
+    {
+     "file": "25-delete.jpg",
+     "step": "delete"
+    },
+    {
+     "file": "26-sticker-panel.jpg",
+     "step": "sticker panel"
+    },
+    {
+     "file": "27-settings-tab-1.jpg",
+     "step": "settings, tab 1"
+    },
+    {
+     "file": "28-settings-tab-2.jpg",
+     "step": "settings, tab 2"
+    },
+    {
+     "file": "29-settings-tab-3.jpg",
+     "step": "settings, tab 3"
+    },
+    {
+     "file": "30-back-to-the-game.jpg",
+     "step": "back to the game"
+    }
+   ]
+  }
+ ]
+}
